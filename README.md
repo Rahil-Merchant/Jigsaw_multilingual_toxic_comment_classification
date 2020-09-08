@@ -69,9 +69,9 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
 </table>
 
 # Contributors:
-1. **Kayvan Shah** - *Modelling, Data Pipelines, EDA*
-2. **Abneet Wats** - *Modelling, Data Pipelines*
-3. **Rahil Merchant** - *EDA*
+1. **Kayvan Shah** 
+2. **Abneet Wats** 
+3. **Rahil Merchant** 
 
 ## Link to the dataset: 
 1. [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data) 
